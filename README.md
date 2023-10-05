@@ -14,7 +14,7 @@ The main files and directories in this project are as follows:
 
 The project has the following dependencies:
 
-- Python 3.x
+- Python 
 - Streamlit
 - Pandas
 - Scikit-learn
